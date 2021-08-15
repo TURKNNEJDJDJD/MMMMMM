@@ -703,3 +703,4 @@ if tlps == "5":
 if tlps == "6":
         
  os.system('git clone https://github.com/TURKNNEJDJDJD/DDDDDDD ; cd DDDDDDD ;python2  DDAA.py')
+##ww
